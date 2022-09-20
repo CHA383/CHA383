@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C programming language, Algorithm**
 
-- 👍 I can do this too **Photoshop, Premiere Pro, XD, Final Cut 💻**
+- 👍 I can do this too **Photoshop, Premiere Pro, XD, Final Cut Pro 💻**
 
 - ⚡ Fun fact **Ummm...🤔 what is it~?**
 
