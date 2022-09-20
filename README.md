@@ -1,6 +1,8 @@
 <h1 align="left">Nice to meet you!👋  I'm ChaSiHeon🇰🇷</h1>
 <h3 align="left">I Always New Thinking 💡</h3>
 
+- 🤖 I am preparing for the Mobile Robotics Skills Competition 🦾
+
 - 📫 How to reach me **dev.siheoncha3@icloud.com 📨**
 
 - 🌱 I’m currently learning **JavaScript, React.js, Node.js**
