@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dev.siheoncha3@icloud.com 📨**
 
-- 🌱 I’m currently learning **JavaScript, React.js, Node.js, Vue.js**
+- 🌱 I’m currently learning **JavaScript, Node.js, Swift**
 
 - 💬 Ask me about **C programming language, Algorithm**
 
