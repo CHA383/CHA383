@@ -5,14 +5,9 @@
 
 - 📫 How to reach me **dev.siheoncha3@icloud.com 📨**
 
-- 🌱 I’m currently learning **JavaScript, Node.js, Swift**
-
-- 💬 Ask me about **C programming language, Algorithm**
+- 🌱 I'm learn about  **JavaScript, Node.js, React.js**
 
 - 👍 I can do this too **Photoshop, Premiere Pro, XD, Final Cut Pro 💻**
-
-- ⚡ Fun fact **Ummm...🤔 what is it~?**
-
 <center>
 <h3 align="left">Connect with Chasiheon 🤙</h3>
 <p align="left">
